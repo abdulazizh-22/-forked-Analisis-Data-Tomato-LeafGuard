@@ -12,8 +12,10 @@ st.set_page_config(
 )
 
 # Input Data
-data = pd.read_csv("all_data.csv")
-df = pd.DataFrame(data)
+file_id = '1SYB6jD3NXckgpkvtF4tk5AxLZWDfIoLN'
+url = f'https://drive.google.com/uc?export=download&id={file_id}'
+
+df = pd.read_csv(url)
 
 # Sidebar
 st.sidebar.header("🍅 Filter Kebun Tomat")
