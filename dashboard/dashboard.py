@@ -1,25 +1,9 @@
 import streamlit as st
 import pandas as pd
-# import matplotlib.pyplot as plt
-# import seaborn as sns
+import matplotlib.pyplot as plt
+import seaborn as sns
 import subprocess
 import sys
-
-# Fungsi install library untuk mengurangi error saat deploy ke streamlit cloud
-def install(package):
-    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"])
-
-try:
-    import matplotlib.pyplot as plt
-except ModuleNotFoundError:
-    install("matplotlib")
-    import matplotlib.pyplot as plt
-
-try:
-    import seaborn as sns
-except ModuleNotFoundError:
-    install("seaborn")
-    import seaborn as sns
 
 st.set_page_config(
     page_title="Tomato-LeafGuard Farm Disease Dashboard",
