@@ -1,0 +1,888 @@
+id,disease,temperature,humidity,residue,nutrient
+5705,early blight,19.0,60.0,light,114.0
+7996,early blight,28.0,83.0,heavy,98.0
+6185,bacterial spot,25.0,89.0,light,142.0
+5254,leaf mold,24.0,91.0,moderate,139.0
+9608,healthy,14.0,77.0,light,147.0
+6797,target spot,16.0,84.0,heavy,128.0
+3125,early blight,26.0,95.0,heavy,116.0
+9132,septoria leaf spot,26.0,97.0,light,137.0
+9514,early blight,30.0,92.0,heavy,115.0
+9154,leaf mold,20.0,95.0,moderate,149.0
+9069,septoria leaf spot,18.0,91.0,moderate,133.0
+3947,mosaic virus,19.0,83.0,heavy,136.0
+4812,leaf mold,20.0,94.0,moderate,142.0
+4171,spider mites or two spotted spider mites,27.0,48.0,light,177.0
+1025,spider mites or two spotted spider mites,27.0,48.0,moderate,158.0
+2936,mosaic virus,24.0,88.0,moderate,133.0
+1392,late blight,23.0,83.73452256033578,moderate,137.5778947368421
+8616,target spot,16.0,89.0,heavy,127.0
+2932,bacterial spot,22.782426778242677,91.0,light,137.5778947368421
+4396,target spot,20.0,87.0,heavy,141.0
+7793,septoria leaf spot,15.0,91.0,moderate,149.0
+7783,spider mites or two spotted spider mites,30.0,47.0,moderate,152.0
+1745,septoria leaf spot,27.0,92.0,light,145.0
+6468,septoria leaf spot,23.0,93.0,light,136.0
+6728,late blight,23.0,90.0,moderate,140.0
+4478,bacterial spot,26.0,95.0,moderate,132.0
+1185,bacterial spot,28.0,82.0,light,148.0
+4296,mosaic virus,22.0,93.0,moderate,129.0
+5614,mosaic virus,22.782426778242677,85.0,heavy,131.0
+5168,yellow leaf curl virus,30.0,92.0,heavy,141.0
+2111,mosaic virus,17.0,82.0,heavy,125.0
+6042,healthy,23.0,68.0,light,127.0
+9301,yellow leaf curl virus,14.0,94.0,moderate,150.0
+6307,mosaic virus,17.0,82.0,moderate,146.0
+1100,target spot,20.0,88.0,moderate,146.0
+2865,early blight,29.0,87.0,moderate,104.0
+6460,leaf mold,23.0,87.0,heavy,130.0
+6592,septoria leaf spot,16.0,97.0,light,126.0
+7488,yellow leaf curl virus,11.0,93.0,heavy,140.0
+1477,leaf mold,20.0,87.0,heavy,125.0
+3877,target spot,21.0,85.0,heavy,147.0
+4178,yellow leaf curl virus,22.782426778242677,83.73452256033578,moderate,126.0
+6536,bacterial spot,28.0,95.0,light,126.0
+8849,yellow leaf curl virus,12.0,90.0,heavy,128.0
+8774,healthy,23.0,65.0,light,138.0
+1582,healthy,19.0,69.0,light,146.0
+3224,spider mites or two spotted spider mites,30.0,47.0,moderate,166.0
+8888,spider mites or two spotted spider mites,27.0,45.0,moderate,171.0
+3545,healthy,15.0,73.0,light,141.0
+8546,septoria leaf spot,20.0,91.0,light,136.0
+9797,septoria leaf spot,23.0,94.0,light,146.0
+6490,yellow leaf curl virus,29.0,88.0,moderate,148.0
+8577,yellow leaf curl virus,13.0,92.0,moderate,146.0
+7782,septoria leaf spot,19.0,90.0,light,145.0
+1917,target spot,14.0,81.0,heavy,149.0
+9537,late blight,19.0,92.0,moderate,142.0
+5904,target spot,15.0,82.0,moderate,142.0
+6169,bacterial spot,28.0,83.73452256033578,light,137.5778947368421
+9779,late blight,22.0,95.0,light,142.0
+1306,leaf mold,20.0,90.0,heavy,144.0
+4412,late blight,18.0,92.0,light,138.0
+6434,bacterial spot,26.0,93.0,moderate,150.0
+6793,leaf mold,20.0,91.0,moderate,140.0
+2084,leaf mold,23.0,90.0,heavy,150.0
+3446,leaf mold,21.0,91.0,heavy,137.5778947368421
+5595,early blight,26.0,87.0,heavy,118.0
+1510,yellow leaf curl virus,28.0,89.0,heavy,126.0
+6556,early blight,26.0,93.0,heavy,110.0
+7147,healthy,15.0,71.0,light,133.0
+9753,bacterial spot,24.0,89.0,light,136.0
+3719,target spot,24.0,95.0,heavy,144.0
+7382,spider mites or two spotted spider mites,27.0,56.0,moderate,168.0
+4070,septoria leaf spot,20.0,96.0,moderate,142.0
+2914,late blight,25.0,96.0,light,144.0
+6050,healthy,22.0,78.0,light,134.0
+6152,septoria leaf spot,22.782426778242677,95.0,moderate,137.5778947368421
+5448,early blight,29.0,92.0,heavy,137.5778947368421
+7780,leaf mold,21.0,88.0,moderate,125.0
+2422,bacterial spot,27.0,90.0,light,139.0
+9143,target spot,23.0,84.0,heavy,140.0
+4893,target spot,24.0,92.0,moderate,149.0
+7088,early blight,25.0,84.0,heavy,98.0
+8404,yellow leaf curl virus,11.0,94.0,heavy,149.0
+5958,mosaic virus,25.0,95.0,heavy,142.0
+4541,mosaic virus,25.0,94.0,heavy,139.0
+9603,septoria leaf spot,25.0,94.0,moderate,145.0
+5953,leaf mold,20.0,89.0,moderate,133.0
+3867,spider mites or two spotted spider mites,31.0,46.0,light,156.0
+2838,leaf mold,21.0,88.0,moderate,138.0
+7131,target spot,21.0,87.0,moderate,131.0
+1612,target spot,23.0,92.0,moderate,149.0
+4311,healthy,14.0,70.0,moderate,149.0
+2517,target spot,20.0,83.73452256033578,moderate,140.0
+8270,leaf mold,23.0,85.0,heavy,135.0
+9290,target spot,21.0,83.73452256033578,moderate,144.0
+1408,yellow leaf curl virus,23.0,82.0,heavy,100.0
+8907,early blight,25.0,95.0,heavy,102.0
+9192,bacterial spot,26.0,84.0,moderate,135.0
+3524,spider mites or two spotted spider mites,30.0,49.0,moderate,160.0
+4116,early blight,29.0,90.0,moderate,108.0
+6572,leaf mold,20.0,85.0,moderate,137.5778947368421
+8921,bacterial spot,25.0,83.0,moderate,146.0
+9579,early blight,25.0,89.0,heavy,121.0
+6084,spider mites or two spotted spider mites,31.0,56.0,light,176.0
+6363,late blight,16.0,90.0,moderate,143.0
+3347,target spot,25.0,84.0,moderate,143.0
+2609,leaf mold,22.0,95.0,moderate,137.5778947368421
+9456,healthy,19.0,73.0,moderate,146.0
+3174,spider mites or two spotted spider mites,32.0,50.0,light,165.0
+4361,mosaic virus,19.0,91.0,heavy,147.0
+1598,late blight,22.782426778242677,94.0,moderate,139.0
+8526,target spot,23.0,85.0,heavy,132.0
+7350,early blight,22.782426778242677,85.0,heavy,115.0
+9558,healthy,19.0,65.0,moderate,135.0
+2897,late blight,20.0,94.0,moderate,133.0
+1067,healthy,18.0,83.73452256033578,light,141.0
+6095,leaf mold,23.0,92.0,moderate,147.0
+1721,mosaic virus,22.782426778242677,88.0,moderate,127.0
+2426,septoria leaf spot,26.0,93.0,moderate,146.0
+8649,healthy,22.0,73.0,moderate,138.0
+1755,yellow leaf curl virus,30.0,91.0,moderate,128.0
+2689,leaf mold,24.0,87.0,moderate,131.0
+9529,mosaic virus,23.0,93.0,heavy,128.0
+6119,leaf mold,22.0,87.0,heavy,125.0
+6114,bacterial spot,27.0,88.0,moderate,135.0
+4438,late blight,19.0,97.0,light,127.0
+6257,target spot,23.0,83.73452256033578,moderate,137.5778947368421
+4285,late blight,19.0,91.0,light,128.0
+5695,mosaic virus,23.0,83.73452256033578,heavy,137.5778947368421
+5532,healthy,25.0,66.0,light,145.0
+9720,leaf mold,20.0,87.0,moderate,130.0
+6228,yellow leaf curl virus,31.0,94.0,heavy,126.0
+8227,leaf mold,22.0,92.0,moderate,146.0
+2927,leaf mold,24.0,95.0,moderate,138.0
+5467,early blight,22.782426778242677,84.0,heavy,101.0
+3580,early blight,30.0,86.0,heavy,111.0
+5483,early blight,22.782426778242677,93.0,heavy,137.5778947368421
+2875,yellow leaf curl virus,14.0,93.0,heavy,144.0
+1249,septoria leaf spot,18.0,88.0,heavy,172.0
+2677,bacterial spot,25.0,88.0,moderate,133.0
+4384,late blight,22.782426778242677,97.0,light,137.5778947368421
+9888,spider mites or two spotted spider mites,29.0,55.0,light,157.0
+6739,spider mites or two spotted spider mites,30.0,49.0,moderate,176.0
+6218,yellow leaf curl virus,13.0,65.0,moderate,138.0
+5440,early blight,27.0,95.0,moderate,118.0
+3319,yellow leaf curl virus,29.0,94.0,heavy,149.0
+5641,bacterial spot,28.0,83.0,moderate,139.0
+5011,mosaic virus,24.0,90.0,moderate,147.0
+3806,late blight,15.0,96.0,light,132.0
+2167,early blight,24.0,92.0,moderate,112.0
+6101,septoria leaf spot,19.0,96.0,moderate,140.0
+6549,leaf mold,21.0,83.73452256033578,moderate,137.5778947368421
+9856,yellow leaf curl virus,28.0,93.0,heavy,150.0
+8268,yellow leaf curl virus,30.0,94.0,moderate,139.0
+1831,yellow leaf curl virus,32.0,94.0,heavy,131.0
+3131,leaf mold,21.0,91.0,moderate,135.0
+1475,mosaic virus,20.0,87.0,moderate,140.0
+8712,bacterial spot,28.0,86.0,light,139.0
+1826,early blight,27.0,82.0,moderate,110.0
+2735,late blight,19.0,83.73452256033578,moderate,137.5778947368421
+7284,early blight,30.0,92.0,heavy,107.0
+1881,mosaic virus,14.0,90.0,moderate,132.0
+2410,septoria leaf spot,26.0,91.0,moderate,128.0
+7987,early blight,29.0,86.0,moderate,98.0
+3932,late blight,21.0,92.0,light,130.0
+8304,early blight,27.0,91.0,moderate,112.0
+6826,healthy,21.0,75.0,moderate,139.0
+6444,septoria leaf spot,27.0,97.0,moderate,146.0
+9740,septoria leaf spot,21.0,97.0,light,132.0
+2286,target spot,23.0,85.0,heavy,125.0
+8629,target spot,23.0,94.0,moderate,144.0
+3159,mosaic virus,18.0,93.0,moderate,144.0
+2522,spider mites or two spotted spider mites,28.0,54.0,moderate,173.0
+8672,late blight,25.0,90.0,moderate,150.0
+2593,mosaic virus,22.0,91.0,light,108.0
+8464,septoria leaf spot,21.0,92.0,light,129.0
+6085,yellow leaf curl virus,32.0,89.0,heavy,140.0
+8625,septoria leaf spot,20.0,91.0,moderate,127.0
+8709,late blight,18.0,96.0,moderate,127.0
+4796,target spot,28.0,52.0,moderate,144.0
+4666,septoria leaf spot,25.0,95.0,light,146.0
+3354,leaf mold,24.0,93.0,heavy,144.0
+5227,leaf mold,23.0,89.0,heavy,128.0
+6954,late blight,12.0,83.73452256033578,moderate,137.5778947368421
+7423,early blight,28.0,84.0,heavy,111.0
+4004,spider mites or two spotted spider mites,32.0,56.0,moderate,170.0
+6412,late blight,25.0,91.0,moderate,144.0
+6320,target spot,18.0,81.0,heavy,131.0
+8426,mosaic virus,17.0,94.0,heavy,128.0
+8987,spider mites or two spotted spider mites,32.0,50.0,light,164.0
+1495,septoria leaf spot,16.0,97.0,light,146.0
+2070,leaf mold,24.0,85.0,moderate,150.0
+8787,spider mites or two spotted spider mites,28.0,57.0,light,137.5778947368421
+2849,yellow leaf curl virus,29.0,89.0,moderate,133.0
+6758,late blight,23.0,94.0,light,128.0
+8842,bacterial spot,26.0,93.0,light,143.0
+8556,spider mites or two spotted spider mites,19.0,48.0,light,150.0
+3798,yellow leaf curl virus,31.0,92.0,moderate,139.0
+5624,yellow leaf curl virus,28.0,94.0,moderate,126.0
+6711,mosaic virus,20.0,91.0,moderate,140.0
+3087,mosaic virus,15.0,86.0,moderate,127.0
+9322,late blight,25.0,95.0,moderate,144.0
+2686,yellow leaf curl virus,32.0,88.0,moderate,145.0
+7646,yellow leaf curl virus,31.0,90.0,heavy,135.0
+2752,mosaic virus,25.0,82.0,heavy,138.0
+2162,early blight,24.0,88.0,moderate,120.0
+5949,spider mites or two spotted spider mites,31.0,45.0,moderate,173.0
+9728,early blight,30.0,92.0,heavy,120.0
+8552,bacterial spot,28.0,85.0,moderate,128.0
+7566,healthy,16.0,75.0,moderate,132.0
+7773,early blight,28.0,87.0,moderate,121.0
+4908,septoria leaf spot,27.0,96.0,light,144.0
+4992,septoria leaf spot,19.0,89.0,moderate,140.0
+9977,spider mites or two spotted spider mites,15.0,83.73452256033578,heavy,148.0
+3605,early blight,29.0,82.0,moderate,120.0
+8903,yellow leaf curl virus,31.0,89.0,heavy,134.0
+7288,spider mites or two spotted spider mites,31.0,83.73452256033578,light,137.5778947368421
+2082,late blight,22.782426778242677,83.73452256033578,light,133.0
+6582,mosaic virus,21.0,90.0,heavy,138.0
+4411,septoria leaf spot,23.0,91.0,moderate,138.0
+8063,early blight,29.0,91.0,heavy,113.0
+8132,septoria leaf spot,23.0,83.0,light,97.0
+6606,leaf mold,21.0,87.0,heavy,137.5778947368421
+9921,spider mites or two spotted spider mites,30.0,56.0,moderate,157.0
+4869,late blight,18.0,95.0,light,137.0
+3835,bacterial spot,27.0,95.0,light,135.0
+2276,healthy,20.0,76.0,moderate,134.0
+8972,early blight,26.0,84.0,heavy,119.0
+2873,spider mites or two spotted spider mites,27.0,48.0,moderate,170.0
+8584,target spot,20.0,94.0,heavy,148.0
+6330,spider mites or two spotted spider mites,28.0,46.0,light,168.0
+2599,yellow leaf curl virus,13.0,90.0,moderate,129.0
+8294,septoria leaf spot,24.0,92.0,light,130.0
+3886,mosaic virus,23.0,93.0,heavy,146.0
+6046,healthy,23.0,70.0,moderate,129.0
+7648,mosaic virus,21.0,91.0,heavy,150.0
+2140,septoria leaf spot,20.0,91.0,moderate,139.0
+2781,mosaic virus,22.0,63.0,light,108.0
+7208,healthy,20.0,72.0,light,139.0
+6364,healthy,19.0,74.0,moderate,141.0
+9098,late blight,22.0,91.0,moderate,147.0
+2007,early blight,25.0,82.0,moderate,119.0
+2483,mosaic virus,22.0,89.0,moderate,136.0
+4565,spider mites or two spotted spider mites,30.0,51.0,moderate,173.0
+3276,healthy,24.0,75.0,moderate,127.0
+1003,spider mites or two spotted spider mites,32.0,51.0,moderate,160.0
+3403,healthy,19.0,66.0,light,136.0
+3444,septoria leaf spot,26.0,96.0,light,144.0
+8421,early blight,27.0,92.0,heavy,101.0
+5775,late blight,20.0,97.0,light,132.0
+7389,late blight,19.0,91.0,light,146.0
+8326,spider mites or two spotted spider mites,31.0,47.0,moderate,156.0
+4205,late blight,24.0,92.0,moderate,126.0
+4369,target spot,25.0,84.0,heavy,144.0
+6187,septoria leaf spot,27.0,97.0,light,142.0
+5910,leaf mold,23.0,88.0,heavy,146.0
+5989,healthy,21.0,77.0,moderate,149.0
+8122,target spot,20.0,83.0,moderate,150.0
+6640,healthy,18.0,65.0,moderate,136.0
+2462,yellow leaf curl virus,28.0,88.0,moderate,133.0
+1133,mosaic virus,16.0,94.0,heavy,127.0
+9362,leaf mold,22.0,85.0,heavy,126.0
+7622,target spot,17.0,87.0,moderate,136.0
+3089,leaf mold,14.0,90.0,heavy,139.0
+5819,late blight,19.0,97.0,light,149.0
+2022,mosaic virus,14.0,95.0,moderate,125.0
+7049,septoria leaf spot,17.0,83.73452256033578,light,149.0
+9992,septoria leaf spot,16.0,90.0,light,138.0
+1870,healthy,15.0,78.0,moderate,144.0
+1013,yellow leaf curl virus,27.0,81.0,light,115.0
+6885,septoria leaf spot,24.0,95.0,light,143.0
+2797,target spot,24.0,82.0,heavy,127.0
+5623,yellow leaf curl virus,15.0,93.0,heavy,126.0
+4854,target spot,18.0,92.0,moderate,136.0
+8073,early blight,29.0,92.0,moderate,121.0
+7459,healthy,19.0,67.0,light,136.0
+6212,yellow leaf curl virus,31.0,89.0,moderate,127.0
+7271,mosaic virus,17.0,47.0,light,137.5778947368421
+7652,spider mites or two spotted spider mites,31.0,51.0,moderate,160.0
+7251,bacterial spot,25.0,85.0,moderate,149.0
+8130,bacterial spot,26.0,85.0,light,150.0
+9931,spider mites or two spotted spider mites,30.0,56.0,moderate,164.0
+4460,spider mites or two spotted spider mites,30.0,56.0,moderate,163.0
+3841,yellow leaf curl virus,11.0,93.0,moderate,142.0
+8780,septoria leaf spot,16.0,95.0,moderate,134.0
+3278,mosaic virus,20.0,83.0,heavy,136.0
+4083,mosaic virus,22.0,84.0,moderate,132.0
+7301,bacterial spot,29.0,87.0,moderate,141.0
+6902,late blight,17.0,97.0,light,129.0
+7835,early blight,29.0,87.0,heavy,109.0
+3527,healthy,15.0,88.0,moderate,144.0
+5726,spider mites or two spotted spider mites,27.0,54.0,light,168.0
+3056,spider mites or two spotted spider mites,32.0,49.0,light,155.0
+3200,bacterial spot,27.0,89.0,moderate,142.0
+1190,early blight,26.0,93.0,heavy,103.0
+2175,healthy,21.0,68.0,light,129.0
+1257,early blight,29.0,89.0,moderate,118.0
+3359,spider mites or two spotted spider mites,32.0,83.73452256033578,moderate,137.5778947368421
+8974,late blight,25.0,92.0,moderate,141.0
+8155,leaf mold,21.0,87.0,moderate,150.0
+3248,yellow leaf curl virus,28.0,93.0,heavy,141.0
+7813,target spot,23.0,82.0,moderate,135.0
+8471,early blight,29.0,83.73452256033578,heavy,101.0
+7974,yellow leaf curl virus,29.0,95.0,moderate,128.0
+3945,yellow leaf curl virus,29.0,90.0,heavy,141.0
+8444,septoria leaf spot,19.0,93.0,moderate,129.0
+9346,septoria leaf spot,16.0,92.0,light,130.0
+7948,healthy,22.782426778242677,70.0,light,125.0
+8373,early blight,31.0,94.0,heavy,130.0
+7303,leaf mold,23.0,94.0,moderate,140.0
+6821,yellow leaf curl virus,13.0,93.0,heavy,139.0
+4698,early blight,22.782426778242677,89.0,heavy,112.0
+4044,mosaic virus,23.0,83.0,heavy,147.0
+7959,spider mites or two spotted spider mites,29.0,51.0,light,176.0
+1121,spider mites or two spotted spider mites,27.0,50.0,light,166.0
+9161,early blight,25.0,84.0,moderate,98.0
+4878,septoria leaf spot,24.0,96.0,light,130.0
+9220,spider mites or two spotted spider mites,32.0,50.0,light,176.0
+5411,late blight,22.782426778242677,97.0,moderate,134.0
+7731,mosaic virus,23.0,77.0,moderate,127.0
+9948,leaf mold,20.0,85.0,heavy,140.0
+7012,healthy,24.0,75.0,moderate,134.0
+1548,yellow leaf curl virus,14.0,72.0,light,130.0
+1620,spider mites or two spotted spider mites,29.0,45.0,moderate,153.0
+8917,healthy,19.0,73.0,moderate,127.0
+7038,target spot,22.0,85.0,moderate,129.0
+2854,early blight,30.0,87.0,heavy,121.0
+8889,late blight,23.0,96.0,light,126.0
+2311,bacterial spot,26.0,93.0,moderate,141.0
+3327,mosaic virus,22.0,83.0,heavy,144.0
+9624,spider mites or two spotted spider mites,31.0,56.0,moderate,170.0
+5578,spider mites or two spotted spider mites,31.0,53.0,moderate,174.0
+8617,healthy,14.0,70.0,moderate,146.0
+9469,early blight,28.0,86.0,moderate,116.0
+2281,mosaic virus,24.0,93.0,moderate,148.0
+9574,bacterial spot,25.0,89.0,moderate,129.0
+2449,leaf mold,22.782426778242677,57.0,light,153.0
+5017,spider mites or two spotted spider mites,30.0,56.0,light,165.0
+2279,spider mites or two spotted spider mites,30.0,53.0,moderate,162.0
+9834,late blight,23.0,95.0,moderate,146.0
+1864,septoria leaf spot,18.0,93.0,moderate,142.0
+6628,septoria leaf spot,19.0,94.0,light,147.0
+9765,mosaic virus,19.0,89.0,heavy,134.0
+1176,early blight,28.0,83.73452256033578,heavy,137.5778947368421
+8681,late blight,19.0,91.0,moderate,139.0
+8438,septoria leaf spot,18.0,93.0,moderate,142.0
+9399,septoria leaf spot,24.0,93.0,light,126.0
+8687,yellow leaf curl virus,22.782426778242677,93.0,heavy,137.5778947368421
+6431,mosaic virus,16.0,81.0,moderate,138.0
+7897,mosaic virus,17.0,93.0,heavy,135.0
+6782,septoria leaf spot,27.0,91.0,light,142.0
+5827,bacterial spot,25.0,87.0,light,126.0
+5738,target spot,16.0,95.0,heavy,126.0
+3744,bacterial spot,28.0,82.0,moderate,134.0
+1578,mosaic virus,22.0,89.0,heavy,129.0
+5981,yellow leaf curl virus,28.0,89.0,heavy,145.0
+5267,septoria leaf spot,15.0,95.0,moderate,143.0
+2006,leaf mold,23.0,91.0,heavy,127.0
+8752,target spot,16.0,83.0,heavy,137.5778947368421
+3770,leaf mold,23.0,60.0,moderate,131.0
+1845,spider mites or two spotted spider mites,32.0,54.0,light,160.0
+5780,spider mites or two spotted spider mites,27.0,55.0,light,166.0
+1447,septoria leaf spot,25.0,94.0,light,145.0
+5699,septoria leaf spot,18.0,93.0,light,140.0
+8942,late blight,24.0,95.0,moderate,147.0
+2351,yellow leaf curl virus,15.0,88.0,heavy,141.0
+3077,spider mites or two spotted spider mites,31.0,46.0,light,169.0
+9283,yellow leaf curl virus,15.0,92.0,heavy,128.0
+2259,leaf mold,23.0,86.0,heavy,137.5778947368421
+5552,bacterial spot,28.0,87.0,moderate,143.0
+5129,bacterial spot,29.0,93.0,moderate,148.0
+3171,bacterial spot,30.0,81.0,light,143.0
+5603,early blight,22.0,89.0,light,166.0
+5509,bacterial spot,24.0,95.0,moderate,126.0
+5209,septoria leaf spot,27.0,92.0,moderate,136.0
+1232,target spot,20.0,87.0,moderate,146.0
+2827,yellow leaf curl virus,13.0,95.0,heavy,141.0
+3860,late blight,18.0,90.0,light,134.0
+3476,mosaic virus,22.0,87.0,heavy,132.0
+8317,leaf mold,21.0,89.0,moderate,148.0
+7058,early blight,32.0,71.0,heavy,99.0
+3873,leaf mold,20.0,94.0,moderate,139.0
+5280,healthy,14.0,68.0,light,137.0
+8944,mosaic virus,17.0,93.0,moderate,129.0
+3962,yellow leaf curl virus,32.0,92.0,moderate,134.0
+9640,late blight,23.0,93.0,moderate,134.0
+1542,septoria leaf spot,24.0,92.0,moderate,142.0
+6617,mosaic virus,22.0,86.0,heavy,145.0
+2382,yellow leaf curl virus,14.0,91.0,heavy,130.0
+3376,yellow leaf curl virus,12.0,94.0,moderate,142.0
+3525,target spot,22.0,89.0,moderate,137.0
+9125,leaf mold,22.0,95.0,moderate,139.0
+7765,spider mites or two spotted spider mites,32.0,58.0,light,153.0
+7277,septoria leaf spot,24.0,90.0,light,131.0
+4898,healthy,22.0,68.0,moderate,131.0
+8211,spider mites or two spotted spider mites,27.0,48.0,light,175.0
+3740,early blight,30.0,89.0,moderate,119.0
+4454,healthy,20.0,68.0,moderate,149.0
+6653,septoria leaf spot,23.0,95.0,moderate,133.0
+1890,spider mites or two spotted spider mites,30.0,52.0,light,177.0
+5331,mosaic virus,19.0,95.0,moderate,136.0
+2900,spider mites or two spotted spider mites,31.0,58.0,light,175.0
+1860,late blight,28.0,82.0,heavy,150.0
+3745,septoria leaf spot,20.0,93.0,moderate,143.0
+8602,leaf mold,22.0,89.0,heavy,148.0
+7533,mosaic virus,25.0,93.0,heavy,130.0
+8802,late blight,22.0,92.0,light,141.0
+5937,bacterial spot,24.0,94.0,light,149.0
+9724,late blight,27.0,74.0,moderate,104.0
+4828,healthy,23.0,72.0,moderate,125.0
+7222,bacterial spot,27.0,81.0,light,141.0
+7390,septoria leaf spot,19.0,90.0,moderate,150.0
+8775,late blight,16.0,92.0,light,131.0
+5302,healthy,22.782426778242677,83.73452256033578,moderate,127.0
+3378,spider mites or two spotted spider mites,30.0,54.0,light,174.0
+9690,leaf mold,20.0,95.0,moderate,127.0
+1194,target spot,22.0,88.0,moderate,145.0
+5731,bacterial spot,24.0,88.0,moderate,145.0
+8353,spider mites or two spotted spider mites,27.0,53.0,light,159.0
+7258,leaf mold,24.0,92.0,heavy,126.0
+6172,early blight,26.0,90.0,moderate,102.0
+9687,spider mites or two spotted spider mites,17.0,83.73452256033578,light,147.0
+1672,early blight,28.0,85.0,heavy,118.0
+2595,yellow leaf curl virus,28.0,87.0,moderate,138.0
+8074,leaf mold,22.0,94.0,heavy,149.0
+5466,spider mites or two spotted spider mites,19.0,95.0,moderate,159.0
+6488,leaf mold,23.0,91.0,moderate,146.0
+5375,leaf mold,20.0,89.0,moderate,137.0
+2610,late blight,20.0,95.0,light,127.0
+5183,bacterial spot,27.0,86.0,moderate,128.0
+7408,late blight,21.0,97.0,moderate,128.0
+8554,bacterial spot,28.0,82.0,moderate,137.0
+4961,bacterial spot,27.0,93.0,light,148.0
+4193,yellow leaf curl virus,12.0,93.0,moderate,129.0
+9518,septoria leaf spot,22.0,92.0,light,130.0
+6528,target spot,18.0,88.0,moderate,136.0
+6132,septoria leaf spot,26.0,97.0,light,139.0
+9972,early blight,24.0,83.73452256033578,heavy,116.0
+1173,target spot,19.0,88.0,heavy,138.0
+1138,healthy,19.0,74.0,light,140.0
+2113,spider mites or two spotted spider mites,30.0,50.0,moderate,175.0
+1195,mosaic virus,17.0,86.0,heavy,133.0
+7737,target spot,23.0,84.0,moderate,146.0
+2600,yellow leaf curl virus,25.0,90.0,light,153.0
+9605,septoria leaf spot,16.0,96.0,moderate,129.0
+2702,septoria leaf spot,25.0,92.0,moderate,150.0
+8306,target spot,23.0,88.0,heavy,142.0
+6759,yellow leaf curl virus,14.0,92.0,moderate,128.0
+4594,leaf mold,22.0,87.0,moderate,143.0
+5127,target spot,19.0,93.0,heavy,128.0
+4163,bacterial spot,25.0,89.0,light,139.0
+1557,spider mites or two spotted spider mites,32.0,54.0,light,163.0
+1388,bacterial spot,26.0,87.0,light,128.0
+2506,late blight,20.0,97.0,light,141.0
+1931,mosaic virus,15.0,88.0,heavy,135.0
+4552,early blight,30.0,93.0,moderate,97.0
+2965,leaf mold,24.0,87.0,heavy,142.0
+2415,target spot,17.0,93.0,heavy,145.0
+3128,late blight,25.0,96.0,moderate,125.0
+7159,healthy,21.0,74.0,moderate,137.0
+4027,bacterial spot,25.0,85.0,light,143.0
+2816,early blight,28.0,84.0,heavy,107.0
+4018,leaf mold,22.0,95.0,heavy,141.0
+5150,spider mites or two spotted spider mites,31.0,51.0,light,163.0
+8650,healthy,16.0,70.0,light,132.0
+2240,septoria leaf spot,20.0,92.0,moderate,138.0
+8429,healthy,20.0,71.0,light,140.0
+5528,yellow leaf curl virus,12.0,94.0,heavy,129.0
+7995,late blight,22.0,90.0,moderate,125.0
+6298,mosaic virus,20.0,89.0,heavy,138.0
+5216,mosaic virus,21.0,88.0,moderate,127.0
+3653,healthy,18.0,63.0,light,132.0
+2212,leaf mold,21.0,92.0,heavy,142.0
+5543,yellow leaf curl virus,30.0,95.0,moderate,149.0
+7366,mosaic virus,22.782426778242677,82.0,moderate,137.5778947368421
+6450,bacterial spot,26.0,94.0,light,139.0
+1984,early blight,25.0,85.0,heavy,119.0
+5230,healthy,16.0,74.0,light,150.0
+3915,septoria leaf spot,17.0,95.0,moderate,137.5778947368421
+8218,healthy,22.0,75.0,light,129.0
+2137,target spot,18.0,94.0,moderate,147.0
+9056,late blight,20.0,93.0,moderate,140.0
+4287,late blight,19.0,96.0,moderate,139.0
+7432,early blight,30.0,83.0,heavy,113.0
+3923,septoria leaf spot,20.0,97.0,moderate,135.0
+9061,healthy,13.0,91.0,moderate,142.0
+2776,early blight,27.0,85.0,heavy,103.0
+3357,mosaic virus,18.0,86.0,moderate,143.0
+9857,mosaic virus,24.0,93.0,moderate,126.0
+8065,early blight,30.0,89.0,moderate,100.0
+4578,late blight,15.0,96.0,light,147.0
+2740,late blight,19.0,92.0,moderate,127.0
+8234,spider mites or two spotted spider mites,29.0,55.0,light,153.0
+5243,target spot,25.0,92.0,moderate,138.0
+2692,early blight,24.0,85.0,heavy,99.0
+1571,late blight,23.0,97.0,light,125.0
+2194,spider mites or two spotted spider mites,30.0,56.0,light,167.0
+2153,early blight,24.0,83.73452256033578,moderate,137.5778947368421
+5105,spider mites or two spotted spider mites,29.0,47.0,moderate,176.0
+8305,late blight,25.0,92.0,light,141.0
+1307,healthy,31.0,55.0,moderate,141.0
+3438,leaf mold,21.0,91.0,heavy,131.0
+1014,early blight,25.0,94.0,moderate,115.0
+1619,target spot,20.0,86.0,moderate,132.0
+7397,septoria leaf spot,18.0,94.0,light,146.0
+5365,septoria leaf spot,24.0,93.0,moderate,134.0
+3483,bacterial spot,30.0,84.0,moderate,137.0
+6403,early blight,22.782426778242677,91.0,moderate,137.5778947368421
+7411,bacterial spot,26.0,83.0,moderate,143.0
+1060,target spot,24.0,83.0,heavy,149.0
+9444,early blight,13.0,45.0,moderate,124.0
+9039,bacterial spot,30.0,87.0,moderate,145.0
+8144,early blight,28.0,85.0,moderate,114.0
+7617,spider mites or two spotted spider mites,32.0,57.0,light,161.0
+2148,target spot,17.0,81.0,moderate,127.0
+9849,target spot,23.0,90.0,moderate,134.0
+1054,spider mites or two spotted spider mites,32.0,49.0,light,163.0
+7298,late blight,19.0,91.0,light,135.0
+8898,target spot,22.782426778242677,85.0,moderate,140.0
+2985,mosaic virus,14.0,88.0,moderate,136.0
+9770,late blight,16.0,91.0,light,148.0
+6880,yellow leaf curl virus,11.0,60.0,light,157.0
+6463,spider mites or two spotted spider mites,28.0,47.0,light,169.0
+5961,target spot,17.0,87.0,heavy,133.0
+7563,early blight,22.782426778242677,90.0,moderate,137.5778947368421
+1904,leaf mold,20.0,91.0,moderate,139.0
+2485,septoria leaf spot,19.0,95.0,light,142.0
+9759,healthy,19.0,74.0,moderate,149.0
+6571,leaf mold,24.0,88.0,moderate,125.0
+2318,target spot,28.0,67.0,heavy,98.0
+8530,spider mites or two spotted spider mites,32.0,69.0,heavy,136.0
+5750,early blight,25.0,88.0,heavy,98.0
+4327,late blight,16.0,90.0,light,141.0
+3893,target spot,19.0,88.0,moderate,143.0
+1644,early blight,29.0,95.0,heavy,99.0
+4129,septoria leaf spot,20.0,96.0,moderate,135.0
+5896,mosaic virus,15.0,84.0,moderate,149.0
+7391,healthy,15.0,67.0,moderate,139.0
+2749,spider mites or two spotted spider mites,31.0,50.0,light,166.0
+6886,septoria leaf spot,16.0,91.0,light,150.0
+8970,septoria leaf spot,26.0,90.0,light,135.0
+2390,late blight,18.0,95.0,moderate,141.0
+8175,bacterial spot,22.782426778242677,94.0,light,137.5778947368421
+4104,target spot,22.0,92.0,moderate,128.0
+3292,mosaic virus,16.0,82.0,moderate,126.0
+1584,leaf mold,23.0,90.0,moderate,143.0
+1415,healthy,15.0,65.0,light,131.0
+4907,mosaic virus,15.0,95.0,heavy,128.0
+9015,bacterial spot,24.0,83.0,moderate,148.0
+7369,target spot,20.0,91.0,heavy,130.0
+2032,spider mites or two spotted spider mites,28.0,83.73452256033578,moderate,137.5778947368421
+6041,late blight,30.0,84.0,light,134.0
+9186,mosaic virus,22.0,88.0,moderate,127.0
+9748,septoria leaf spot,21.0,93.0,light,145.0
+8361,yellow leaf curl virus,30.0,95.0,heavy,136.0
+1268,healthy,20.0,69.0,light,125.0
+1606,spider mites or two spotted spider mites,27.0,57.0,moderate,153.0
+6558,mosaic virus,23.0,84.0,moderate,128.0
+1918,leaf mold,22.0,93.0,moderate,149.0
+6533,leaf mold,23.0,90.0,moderate,130.0
+1701,leaf mold,22.0,94.0,moderate,147.0
+7643,spider mites or two spotted spider mites,31.0,47.0,light,177.0
+4468,mosaic virus,16.0,88.0,moderate,127.0
+9570,bacterial spot,25.0,81.0,moderate,125.0
+8509,spider mites or two spotted spider mites,28.0,57.0,light,162.0
+9791,late blight,20.0,90.0,light,129.0
+3440,healthy,16.0,77.0,light,141.0
+4817,spider mites or two spotted spider mites,29.0,56.0,moderate,170.0
+2180,early blight,26.0,84.0,moderate,120.0
+1604,target spot,21.0,91.0,heavy,130.0
+9010,yellow leaf curl virus,15.0,89.0,heavy,134.0
+1312,septoria leaf spot,22.782426778242677,90.0,moderate,137.5778947368421
+8720,healthy,30.0,65.0,heavy,125.0
+1750,healthy,21.0,67.0,moderate,148.0
+4976,early blight,26.0,84.0,moderate,119.0
+3138,spider mites or two spotted spider mites,29.0,48.0,light,174.0
+1235,early blight,30.0,83.0,moderate,98.0
+3822,target spot,20.0,83.0,heavy,140.0
+1818,target spot,20.0,82.0,heavy,150.0
+6035,healthy,24.0,68.0,light,139.0
+2594,early blight,24.0,86.0,moderate,107.0
+8474,septoria leaf spot,16.0,95.0,light,137.0
+3796,late blight,23.0,91.0,moderate,144.0
+2047,healthy,25.0,65.0,moderate,145.0
+2742,late blight,21.0,92.0,light,128.0
+2870,spider mites or two spotted spider mites,28.0,83.73452256033578,moderate,173.0
+9145,septoria leaf spot,16.0,90.0,moderate,143.0
+4613,yellow leaf curl virus,28.0,87.0,heavy,127.0
+2033,septoria leaf spot,25.0,97.0,light,128.0
+7983,early blight,27.0,89.0,heavy,118.0
+6527,septoria leaf spot,23.0,83.73452256033578,light,136.0
+7586,target spot,21.0,81.0,heavy,139.0
+6312,mosaic virus,18.0,90.0,moderate,129.0
+2979,early blight,26.0,94.0,heavy,121.0
+9943,healthy,14.0,78.0,moderate,141.0
+3250,target spot,24.0,94.0,heavy,143.0
+6268,leaf mold,20.0,91.0,moderate,141.0
+4493,healthy,23.0,75.0,light,128.0
+1746,mosaic virus,16.0,84.0,moderate,129.0
+6496,bacterial spot,29.0,87.0,light,145.0
+2035,late blight,19.0,95.0,light,127.0
+2978,target spot,22.0,86.0,heavy,141.0
+5487,mosaic virus,14.0,93.0,heavy,128.0
+3314,target spot,23.0,90.0,moderate,128.0
+7801,healthy,18.0,78.0,moderate,138.0
+3753,septoria leaf spot,22.0,83.73452256033578,light,130.0
+7060,septoria leaf spot,24.0,96.0,light,137.0
+3703,spider mites or two spotted spider mites,27.0,56.0,moderate,160.0
+8187,spider mites or two spotted spider mites,20.0,64.0,moderate,159.0
+4991,early blight,25.0,84.0,heavy,120.0
+1666,mosaic virus,19.0,85.0,heavy,144.0
+3185,early blight,25.0,95.0,heavy,120.0
+2637,mosaic virus,19.0,94.0,moderate,141.0
+7162,late blight,23.0,96.0,light,149.0
+3584,yellow leaf curl virus,11.0,90.0,moderate,132.0
+1256,bacterial spot,26.0,92.0,light,133.0
+8978,spider mites or two spotted spider mites,31.0,51.0,light,173.0
+2322,bacterial spot,27.0,90.0,moderate,130.0
+1104,mosaic virus,19.0,86.0,moderate,133.0
+1118,early blight,27.0,82.0,moderate,115.0
+3939,leaf mold,21.0,95.0,moderate,133.0
+2460,target spot,24.0,81.0,heavy,129.0
+5648,late blight,15.0,93.0,moderate,144.0
+7819,septoria leaf spot,26.0,94.0,moderate,137.0
+8798,spider mites or two spotted spider mites,28.0,52.0,moderate,173.0
+3079,yellow leaf curl virus,14.0,87.0,heavy,142.0
+4377,healthy,18.0,75.0,light,140.0
+3344,early blight,26.0,92.0,heavy,105.0
+5439,septoria leaf spot,25.0,94.0,light,129.0
+8379,yellow leaf curl virus,32.0,92.0,moderate,148.0
+7750,bacterial spot,26.0,85.0,moderate,137.0
+4919,target spot,23.0,92.0,moderate,135.0
+3859,leaf mold,23.0,95.0,heavy,141.0
+1616,septoria leaf spot,25.0,92.0,moderate,128.0
+3949,mosaic virus,18.0,92.0,moderate,146.0
+9190,spider mites or two spotted spider mites,28.0,50.0,light,175.0
+2442,septoria leaf spot,20.0,95.0,moderate,143.0
+5934,septoria leaf spot,16.0,97.0,light,145.0
+6699,healthy,23.0,66.0,moderate,131.0
+7861,yellow leaf curl virus,32.0,93.0,moderate,129.0
+1074,late blight,20.0,96.0,moderate,129.0
+4860,spider mites or two spotted spider mites,28.0,57.0,light,167.0
+4144,spider mites or two spotted spider mites,28.0,50.0,light,152.0
+2925,mosaic virus,16.0,90.0,moderate,140.0
+9686,early blight,27.0,92.0,heavy,109.0
+2567,target spot,20.0,81.0,moderate,142.0
+6929,leaf mold,20.0,90.0,moderate,125.0
+9842,bacterial spot,25.0,84.0,moderate,134.0
+9315,late blight,23.0,94.0,light,127.0
+4592,bacterial spot,26.0,88.0,moderate,138.0
+8605,late blight,22.0,95.0,light,130.0
+4409,target spot,18.0,91.0,light,124.0
+1869,bacterial spot,25.0,83.73452256033578,moderate,147.0
+4173,bacterial spot,29.0,85.0,light,144.0
+2846,bacterial spot,29.0,94.0,light,126.0
+8772,early blight,27.0,83.0,heavy,112.0
+9151,late blight,25.0,90.0,moderate,138.0
+3888,early blight,26.0,91.0,moderate,110.0
+3617,early blight,28.0,83.0,heavy,100.0
+1706,early blight,28.0,85.0,heavy,113.0
+1885,leaf mold,23.0,89.0,moderate,126.0
+6966,yellow leaf curl virus,31.0,90.0,moderate,125.0
+5670,early blight,30.0,91.0,heavy,101.0
+4433,early blight,24.0,93.0,moderate,105.0
+8121,leaf mold,22.0,89.0,heavy,126.0
+5118,early blight,30.0,82.0,heavy,108.0
+6477,spider mites or two spotted spider mites,27.0,46.0,light,152.0
+8424,late blight,17.0,95.0,moderate,139.0
+1709,healthy,25.0,66.0,moderate,135.0
+2710,late blight,21.0,97.0,moderate,137.0
+1859,mosaic virus,24.0,95.0,moderate,128.0
+9804,late blight,15.0,92.0,light,138.0
+3881,healthy,23.0,75.0,moderate,130.0
+3589,healthy,19.0,74.0,light,146.0
+1476,late blight,22.0,91.0,moderate,139.0
+8947,bacterial spot,29.0,86.0,light,147.0
+9436,yellow leaf curl virus,15.0,92.0,moderate,138.0
+2901,leaf mold,23.0,87.0,moderate,125.0
+2160,late blight,22.782426778242677,97.0,light,127.0
+4855,mosaic virus,19.0,85.0,moderate,141.0
+8287,leaf mold,23.0,91.0,moderate,127.0
+6340,mosaic virus,22.782426778242677,83.73452256033578,moderate,140.0
+7865,mosaic virus,21.0,92.0,moderate,128.0
+4256,target spot,22.782426778242677,89.0,moderate,127.0
+4769,mosaic virus,19.0,94.0,moderate,132.0
+2804,mosaic virus,23.0,90.0,heavy,147.0
+6343,spider mites or two spotted spider mites,27.0,46.0,light,137.5778947368421
+4731,spider mites or two spotted spider mites,32.0,57.0,moderate,169.0
+2606,yellow leaf curl virus,11.0,94.0,moderate,147.0
+4884,target spot,23.0,84.0,moderate,128.0
+7759,target spot,17.0,83.73452256033578,heavy,128.0
+4276,target spot,31.0,88.0,heavy,112.0
+7152,mosaic virus,23.0,89.0,moderate,140.0
+4615,bacterial spot,24.0,89.0,moderate,143.0
+2204,mosaic virus,16.0,92.0,moderate,148.0
+8716,late blight,22.782426778242677,95.0,moderate,137.5778947368421
+8936,healthy,17.0,69.0,moderate,135.0
+8141,septoria leaf spot,17.0,92.0,moderate,144.0
+3374,yellow leaf curl virus,15.0,90.0,moderate,144.0
+8454,septoria leaf spot,25.0,92.0,light,141.0
+3917,yellow leaf curl virus,28.0,95.0,heavy,143.0
+7346,healthy,25.0,71.0,moderate,138.0
+7119,bacterial spot,24.0,83.73452256033578,light,126.0
+3234,bacterial spot,30.0,93.0,light,134.0
+8499,septoria leaf spot,15.0,94.0,light,149.0
+6875,leaf mold,24.0,91.0,moderate,141.0
+5418,septoria leaf spot,15.0,96.0,moderate,138.0
+4313,spider mites or two spotted spider mites,27.0,45.0,moderate,158.0
+6503,healthy,21.0,78.0,light,145.0
+3084,spider mites or two spotted spider mites,31.0,56.0,light,176.0
+1525,leaf mold,21.0,95.0,moderate,130.0
+1977,late blight,16.0,96.0,light,138.0
+5597,septoria leaf spot,17.0,92.0,moderate,125.0
+3236,spider mites or two spotted spider mites,28.0,45.0,light,162.0
+2820,healthy,24.0,74.0,moderate,140.0
+8627,healthy,15.0,77.0,moderate,141.0
+8513,leaf mold,24.0,86.0,moderate,138.0
+7852,yellow leaf curl virus,11.0,90.0,heavy,135.0
+3804,spider mites or two spotted spider mites,31.0,53.0,moderate,169.0
+6629,bacterial spot,26.0,88.0,light,145.0
+4602,healthy,17.0,65.0,moderate,137.0
+5835,early blight,28.0,93.0,heavy,97.0
+3568,yellow leaf curl virus,32.0,94.0,moderate,134.0
+3784,leaf mold,20.0,86.0,moderate,149.0
+4763,yellow leaf curl virus,11.0,93.0,moderate,131.0
+2416,yellow leaf curl virus,14.0,87.0,heavy,147.0
+7745,spider mites or two spotted spider mites,13.0,48.0,light,129.0
+9548,yellow leaf curl virus,30.0,93.0,heavy,145.0
+4546,target spot,14.0,87.0,moderate,142.0
+8757,bacterial spot,28.0,82.0,light,147.0
+8581,early blight,28.0,83.0,heavy,118.0
+5573,septoria leaf spot,19.0,97.0,moderate,137.0
+1237,bacterial spot,28.0,84.0,light,148.0
+8014,target spot,22.0,85.0,moderate,134.0
+5041,spider mites or two spotted spider mites,27.0,53.0,light,155.0
+5060,bacterial spot,30.0,70.0,heavy,167.0
+6362,early blight,29.0,93.0,heavy,103.0
+8114,target spot,22.782426778242677,83.73452256033578,moderate,130.0
+4643,leaf mold,22.0,88.0,moderate,130.0
+1083,healthy,22.0,72.0,light,134.0
+7844,early blight,25.0,93.0,heavy,107.0
+1724,spider mites or two spotted spider mites,32.0,48.0,light,161.0
+1656,healthy,17.0,70.0,moderate,139.0
+8711,spider mites or two spotted spider mites,29.0,56.0,light,170.0
+9261,healthy,19.0,71.0,light,125.0
+1550,spider mites or two spotted spider mites,22.782426778242677,56.0,moderate,137.5778947368421
+9701,spider mites or two spotted spider mites,32.0,50.0,moderate,166.0
+7460,mosaic virus,18.0,88.0,moderate,130.0
+8852,healthy,18.0,78.0,light,142.0
+2605,leaf mold,20.0,83.73452256033578,moderate,137.5778947368421
+8412,bacterial spot,28.0,83.73452256033578,light,137.5778947368421
+9114,yellow leaf curl virus,15.0,92.0,heavy,132.0
+4940,healthy,18.0,67.0,moderate,141.0
+2361,yellow leaf curl virus,13.0,90.0,moderate,149.0
+1203,yellow leaf curl virus,12.0,94.0,heavy,126.0
+7662,leaf mold,21.0,86.0,heavy,136.0
+4571,leaf mold,22.782426778242677,83.73452256033578,moderate,146.0
+6872,mosaic virus,14.0,81.0,heavy,128.0
+5846,yellow leaf curl virus,22.782426778242677,93.0,heavy,136.0
+4916,healthy,15.0,73.0,moderate,137.0
+2486,leaf mold,22.0,90.0,heavy,150.0
+1260,mosaic virus,14.0,89.0,moderate,139.0
+8860,late blight,23.0,94.0,light,129.0
+5994,late blight,24.0,91.0,light,138.0
+3650,spider mites or two spotted spider mites,30.0,55.0,moderate,167.0
+8524,leaf mold,23.0,85.0,moderate,126.0
+1399,late blight,17.0,92.0,light,143.0
+8452,late blight,19.0,92.0,moderate,144.0
+3271,leaf mold,23.0,92.0,moderate,132.0
+7641,target spot,23.0,94.0,moderate,144.0
+4030,yellow leaf curl virus,13.0,90.0,heavy,137.0
+7068,late blight,22.782426778242677,96.0,light,137.5778947368421
+8607,early blight,28.0,91.0,moderate,114.0
+1022,yellow leaf curl virus,11.0,95.0,moderate,149.0
+2158,target spot,19.0,94.0,moderate,147.0
+7305,yellow leaf curl virus,31.0,88.0,heavy,129.0
+6454,septoria leaf spot,18.0,91.0,moderate,144.0
+9698,yellow leaf curl virus,12.0,95.0,moderate,141.0
+1535,bacterial spot,25.0,92.0,moderate,138.0
+5859,spider mites or two spotted spider mites,30.0,55.0,moderate,160.0
+7977,yellow leaf curl virus,32.0,93.0,moderate,138.0
+5420,yellow leaf curl virus,29.0,95.0,heavy,133.0
+9887,septoria leaf spot,27.0,96.0,light,146.0
+4393,early blight,27.0,94.0,moderate,100.0
+2326,leaf mold,22.0,93.0,moderate,130.0
+6500,target spot,14.0,93.0,moderate,129.0
+1898,mosaic virus,20.0,82.0,moderate,133.0
+9433,leaf mold,24.0,85.0,heavy,137.0
+6963,healthy,22.782426778242677,76.0,light,149.0
+1844,late blight,22.0,90.0,light,137.5778947368421
+2818,yellow leaf curl virus,11.0,89.0,moderate,136.0
+7274,leaf mold,21.0,86.0,heavy,149.0
+6989,target spot,20.0,87.0,moderate,141.0
+8624,bacterial spot,24.0,95.0,light,137.5778947368421
+1669,septoria leaf spot,23.0,95.0,moderate,133.0
+3871,bacterial spot,22.782426778242677,89.0,light,137.5778947368421
+2097,early blight,26.0,83.0,heavy,114.0
+4354,healthy,21.0,71.0,moderate,149.0
+3267,leaf mold,23.0,95.0,heavy,143.0
+6487,bacterial spot,26.0,82.0,moderate,145.0
+4909,leaf mold,21.0,90.0,heavy,136.0
+2860,spider mites or two spotted spider mites,28.0,52.0,moderate,163.0
+8839,leaf mold,22.0,87.0,moderate,140.0
+4437,leaf mold,21.0,89.0,moderate,132.0
+4693,leaf mold,24.0,90.0,moderate,149.0
+6250,early blight,24.0,92.0,heavy,116.0
+6778,bacterial spot,28.0,81.0,moderate,136.0
+5380,healthy,23.0,78.0,moderate,140.0
+9250,late blight,23.0,94.0,moderate,132.0
+7929,healthy,22.0,77.0,moderate,140.0
+5540,yellow leaf curl virus,22.0,70.0,heavy,119.0
+1892,mosaic virus,25.0,89.0,heavy,135.0
+2038,bacterial spot,17.0,69.0,heavy,109.0
+7108,spider mites or two spotted spider mites,29.0,47.0,moderate,159.0
+6656,septoria leaf spot,24.0,95.0,moderate,130.0
+9215,target spot,16.0,90.0,moderate,143.0
+9629,leaf mold,22.0,88.0,heavy,137.0
+3010,leaf mold,21.0,83.73452256033578,moderate,130.0
+8703,target spot,24.0,89.0,heavy,150.0
+9714,mosaic virus,22.0,94.0,moderate,137.0
+9730,early blight,24.0,85.0,heavy,112.0
+5788,early blight,26.0,86.0,heavy,108.0
+8405,yellow leaf curl virus,13.0,93.0,moderate,136.0
+7031,healthy,23.0,75.0,light,149.0
+2075,septoria leaf spot,25.0,97.0,moderate,127.0
+4085,target spot,21.0,91.0,moderate,130.0
+8501,spider mites or two spotted spider mites,31.0,54.0,moderate,154.0
+2430,early blight,25.0,87.0,heavy,117.0
+2313,septoria leaf spot,24.0,96.0,moderate,139.0
+7400,spider mites or two spotted spider mites,31.0,52.0,moderate,157.0
+3929,late blight,17.0,93.0,moderate,148.0
+5724,early blight,27.0,83.0,moderate,99.0
+2260,mosaic virus,14.0,93.0,heavy,141.0
+2791,early blight,28.0,84.0,moderate,117.0
+3699,target spot,17.0,92.0,heavy,139.0
+5521,late blight,17.0,90.0,light,146.0
+3424,yellow leaf curl virus,15.0,95.0,moderate,143.0
+9131,healthy,25.0,75.0,moderate,141.0
+3465,yellow leaf curl virus,13.0,88.0,heavy,134.0
+4346,spider mites or two spotted spider mites,28.0,49.0,light,152.0
+9530,yellow leaf curl virus,30.0,94.0,moderate,147.0
+1371,mosaic virus,21.0,85.0,moderate,149.0
+7824,spider mites or two spotted spider mites,31.0,83.73452256033578,moderate,137.5778947368421
+9870,late blight,25.0,96.0,moderate,132.0
+3163,septoria leaf spot,25.0,93.0,moderate,134.0
+8764,yellow leaf curl virus,14.0,89.0,moderate,134.0
+6680,early blight,22.782426778242677,89.0,heavy,119.0
+7883,healthy,19.0,65.0,light,126.0
+8272,yellow leaf curl virus,14.0,83.73452256033578,moderate,137.5778947368421
+1351,mosaic virus,17.0,82.0,moderate,125.0
+5776,mosaic virus,20.0,85.0,heavy,136.0
+4097,mosaic virus,14.0,86.0,moderate,149.0
+2031,late blight,21.0,91.0,moderate,130.0
+1361,leaf mold,22.0,91.0,moderate,128.0
+4806,leaf mold,23.0,88.0,moderate,131.0
+9513,mosaic virus,15.0,89.0,moderate,140.0
+6616,target spot,18.0,95.0,heavy,130.0
+6346,bacterial spot,28.0,89.0,light,133.0
+8965,mosaic virus,17.0,86.0,moderate,146.0
+6246,healthy,23.0,76.0,light,132.0
+2083,spider mites or two spotted spider mites,27.0,57.0,moderate,169.0
+5467,early blight,29.0,84.0,heavy,101.0
+4178,yellow leaf curl virus,14.0,91.0,moderate,126.0
+3010,leaf mold,21.0,92.0,moderate,130.0
+2387,mosaic virus,28.0,81.0,moderate,156.0
+2032,spider mites or two spotted spider mites,28.0,49.0,moderate,166.0
+7326,early blight,30.0,82.0,moderate,113.0
+2915,late blight,23.0,96.0,light,149.0
+5302,healthy,19.0,69.0,moderate,127.0
+3663,spider mites or two spotted spider mites,30.0,51.0,light,176.0
+6340,mosaic virus,23.0,88.0,moderate,140.0
+5614,mosaic virus,16.0,85.0,heavy,131.0
+5846,yellow leaf curl virus,13.0,93.0,heavy,136.0
+6527,septoria leaf spot,23.0,96.0,light,136.0
+6343,spider mites or two spotted spider mites,27.0,46.0,light,152.0
+8243,mosaic virus,17.0,92.0,heavy,124.0
+1392,late blight,23.0,94.0,moderate,143.0
+2835,spider mites or two spotted spider mites,29.0,58.0,moderate,166.0
+2735,late blight,19.0,95.0,moderate,145.0
+7944,late blight,17.0,93.0,light,144.0
+8933,septoria leaf spot,22.0,93.0,light,142.0
+6495,healthy,14.0,66.0,moderate,135.0
+5553,leaf mold,23.0,89.0,heavy,139.0
+4533,leaf mold,20.0,89.0,heavy,147.0
+7156,early blight,25.0,83.0,heavy,107.0
+6152,septoria leaf spot,27.0,95.0,moderate,139.0
+5940,septoria leaf spot,20.0,92.0,moderate,141.0
